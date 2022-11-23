@@ -8,4 +8,4 @@ def Euclid_algorithm(num1, num2):
 
 
 a = Euclid_algorithm(756, 238)
-print(a)  # будет 14
+print(f"НОД{756, 238} = {a}")  # будет 14
