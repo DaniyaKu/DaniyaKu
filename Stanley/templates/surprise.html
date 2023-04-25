@@ -1,0 +1,21 @@
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <title>Кто вы, если не Стенли?</title>
+  </head>
+  <body>
+    <p>Hello, {{name}}!</p>
+
+    <p>Method used: {{method}}</p>
+
+    <form action="/name" method="POST">
+      <input type="text" value="{{name}}" name="name" />
+      <input type="submit" value="Кто вы, если не Стенли?">
+    </form>
+
+    <form action="/name" method="POST">
+      <input type="text" value="{{name}}" name="name" />
+      <input type="submit" value="Как к вам обращаться?">
+    </form>
+  </body>
+</html>
