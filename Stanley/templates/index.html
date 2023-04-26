@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<meta charset="utf-8">
+<Title> The Stanley Parable::главная</title>
+</head>
+<body>
+<header>
+<h1>The Stanley Parable</h1></header>
+<nav><a href="/">Главная</a>|<a href="information.html">Общая информация</a>|<a href="plot.html">Завязка</a>|<a href="story.html">Сюжет</a>|</nav><main>
+  {% if username %}
+  <h3> Пользователь: {{ username }}. <a href="/name"> Сменить пользователя </a> </h3>
+  {% else %}
+  <h3> Пользователь: Гость. <a href="/name"> Войти </a> </h3>
+  {% endif %}
+<h2>Об игре "The Stanley Parable"</h2>
+<img src="photo/main.jpg"><p>
+Небычный геймплей. Неожиданные повороты сюжета. Постоянный выбор. Никакой свободы выбора. </p><p>
+Всё это - в невероятной игре "The Stanley Parable"
+</p></main>
+<nav><a href="/">Главная</a>|<a href="information.html">Общая информация</a>|<a href="plot.html">Завязка</a>|<a href="story.html">Сюжет</a>|</nav>
+<h4>© Narrator </h4>
+</Body>
+</html>
