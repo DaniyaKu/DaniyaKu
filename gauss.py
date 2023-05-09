@@ -1,36 +1,43 @@
 import numpy as np
 
-from numpy import array
-from numpy.linalg import norm
-from numpy.linalg import solve as solve_out_of_the_box
+def gauss_for(A, B):
+    n = len(B)
+    for i in range(n):
+        maxelem = abs(A[i][i])
+        maxrow = i
+        for k in range(i + 1, n):
+            if abs(A[k][i]) > maxelem:
+                maxelem = abs(A[k][i])
+                maxrow = k
+        for k in range(i, n):
+            kt = A[maxrow][k]
+            A[maxrow][k] = A[i][k]
+            A[i][k] = kt
+        kt = B[maxrow]
+        B[maxrow] = B[i]
+        B[i] = kt
+        for k in range(i + 1, n):
+            c = -A[k][i] / A[i][i]
+            for j in range(i, n):
+                if i == j:
+                    A[k][j] = 0
+                else:
+                    A[k][j] += c*A[i][j]
+            B[k] += c*B[i]
 
-a = array([
-    [1.5, 2.0, 1.5, 6.0],
-    [3.0, 2.0, 4.8, 1.0],
-    [1.0, 6.0, 5.8, 4],
-    [2.0, 1.0, 4.0, 3]
-], dtype = float)
-
-b = array([5, 6, 7, 8], dtype = float)
-
-n = len(a)
-
-def vector_gauss(a, b):
-    a = a.copy()
-    b = b.copy()
-
-    for j in range(n - 1):
-        for i in range(j + 1, n):
-            frac = a[i, j] / a[j, j]
-            a[i, j + 1:len(a)] -= a[j, j + 1:len(a)] * frac
-            b[i] = b[i] - frac * b[j]
-
+    x = np.zeros(n)
     for i in range(n - 1, -1, -1):
-        b[i] = (b[i] - np.dot(a[i, i + 1:len(a)], b[i + 1:len(a)])) / a[i, i]
-    return b
+        x[i] = B[i]
+        for j in range(i + 1, n):
+            x[i] -= A[i][j] * x[j]
+        x[i] /= A[i][i]
 
-solution = vector_gauss(a, b)
-oob_solution = solve_out_of_the_box(a, b)
+    return x
 
-print(solution)
-print("Максимальное отклонение компоненты решения:", norm(solution - oob_solution, ord=1))
+A = np.array([[2.7, 3.3, 1.3], [3.5, -1.7, 2.8], [4.1, 5.8, -1.7]]) # Матрица системы уравнений
+B = np.array([2.1, 1.7, 0.8]) # Столбец свободных членов
+
+x = gauss_for(A, B)
+
+print("Результат:")
+print(x)
