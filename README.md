@@ -5,11 +5,11 @@
 <p style="text-align: center;" ><div id="badges">
   <a href="https://vk.com/daniyaku">
   <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-  </a>
+  </a></p>
   <a href="https://t.me/wolfwingli">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div></p>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=DaniyaKu&style=flat-square&color=blue" alt=""/>
 
