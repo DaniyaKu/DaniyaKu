@@ -19,8 +19,6 @@
   <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="80px"/>
 </h1></div>
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="300"/>
 </div>
@@ -39,5 +37,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaniyaKu&theme=swift)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
