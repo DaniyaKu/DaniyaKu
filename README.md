@@ -11,8 +11,6 @@
   </a></div>
 </div>
 <div align="center">
-
----
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=DaniyaKu&style=flat-square&color=blue" alt=""/></div></div>
@@ -20,6 +18,8 @@
   It's Python!
   <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="80px"/>
 </h1></div>
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="300"/>
