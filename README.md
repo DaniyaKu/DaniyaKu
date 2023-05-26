@@ -18,3 +18,7 @@
   It's Python!
   <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="80px"/>
 </h1></div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="600" height="300"/>
+</div>
