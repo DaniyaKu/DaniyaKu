@@ -25,9 +25,9 @@
 
 ### Обо мне : студен СПбАУ РАН им. Ж. Алферова. Пока что на 1 курсе) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :atom: Мечтаю стать ученым в области физики.
 
-- :seedling: Exploring Technical Content Writing.
+- :electron: А вот в какой области физики - большой вопрос.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :infinity: Но я точно знаю, что для этого мне нужно программирование.
 
