@@ -12,9 +12,9 @@
 </div>
 <div align="center">
 
-<div id="header" align="center">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=DaniyaKu&style=flat-square&color=blue" alt=""/></div></div>
-<div style="text-align: center;"><h1>
+<div align="center"><h1>
   hey there
   <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="60px"/>
 </h1></div>
