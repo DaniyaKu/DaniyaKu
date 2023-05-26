@@ -14,4 +14,7 @@
 
 <div style="text-align: center;">
 <img src="https://komarev.com/ghpvc/?username=DaniyaKu&style=flat-square&color=blue" alt=""/></div></div>
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30px"/>
+</h1>
