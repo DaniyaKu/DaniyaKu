@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="300"/>
 </div>
 
-### Обо мне : студен СПбАУ РАН им. Ж. Алферова. Пока что на 1 курсе) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Обо мне: студент СПбАУ РАН им. Ж. Алферова. Пока что на 1 курсе) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :atom: Мечтаю стать ученым в области физики.
 
