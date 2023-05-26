@@ -15,6 +15,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=DaniyaKu&style=flat-square&color=blue" alt=""/></div></div>
 <div align="center"><h1>
-  hey there
+  It's Python!
   <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="60px"/>
 </h1></div>
