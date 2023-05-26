@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TetPW6h2AEpQGc1vzU/giphy.gif" width="200"/>
+
 </div>
 <div id="badges">
   <a href="https://vk.com/daniyaku">
@@ -10,4 +11,5 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=DaniyaKu&style=flat-square&color=blue" alt=""/>
 
