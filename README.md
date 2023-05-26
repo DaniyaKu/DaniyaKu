@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a></div>
 </div>
-<div align="center">
+<div align="center"> 
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=DaniyaKu&style=flat-square&color=blue" alt=""/></div></div>
