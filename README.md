@@ -29,5 +29,9 @@
 
 - :electron: А вот в какой области физики - большой вопрос.
 
-- :infinity: Но я точно знаю, что для этого мне нужно программирование.
+- :infinity: Но я точно знаю, что для этого мне нужно программирование (и зачет по нему, конечно :place_of_worship: )
 
+---
+
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaniyaKu&theme=dark&background=000000)](https://git.io/streak-stats)
