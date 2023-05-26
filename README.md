@@ -1,1 +1,3 @@
-![Daniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniyaKu&show_icons=true&bg_color=00000000)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
+</div>
