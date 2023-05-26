@@ -3,11 +3,12 @@
 </div>
 <div id="badges">
   <a href="https://vk.com/daniyaku">
-  <div style="text-align:center"><img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/></div>
+<img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
+  <div align="center">
   <a href="https://t.me/wolfwingli">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+  </a></div>
 </div>
 
 <div style="text-align: center;">
