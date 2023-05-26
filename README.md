@@ -4,5 +4,10 @@
 <div id="badges">
   <a href="https://vk.com/daniyaku">
   <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-    </a>
+  </a>
+  <a href="https://t.me/wolfwingli">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
+
+
